@@ -1,0 +1,15 @@
+C:\Users\VinayakaN\TortoiseGit\bin\Debug\net6.0\TortoiseGit.exe
+C:\Users\VinayakaN\TortoiseGit\bin\Debug\net6.0\TortoiseGit.deps.json
+C:\Users\VinayakaN\TortoiseGit\bin\Debug\net6.0\TortoiseGit.runtimeconfig.json
+C:\Users\VinayakaN\TortoiseGit\bin\Debug\net6.0\TortoiseGit.dll
+C:\Users\VinayakaN\TortoiseGit\bin\Debug\net6.0\TortoiseGit.pdb
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.csproj.AssemblyReference.cache
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.AssemblyInfoInputs.cache
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.AssemblyInfo.cs
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.csproj.CoreCompileInputs.cache
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.dll
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\refint\TortoiseGit.dll
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.pdb
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\TortoiseGit.genruntimeconfig.cache
+C:\Users\VinayakaN\TortoiseGit\obj\Debug\net6.0\ref\TortoiseGit.dll
